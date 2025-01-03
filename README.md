@@ -3,6 +3,7 @@ TBA
 
 # References
 Feathers, M., 2004, Working effectively with legacy code, Prentice Hall Professional.
+
 Fowler, M., 2018, Refactoring: improving the design of existing code, Addison-Wesley Professional.
 
 # Current status
